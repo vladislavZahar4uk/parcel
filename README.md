@@ -1,7 +1,7 @@
 # parcel
 npm install -g parcel-bundler
 
-mpm i
+npm i
 
 parcel index.html
 
